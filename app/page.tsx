@@ -172,7 +172,7 @@ export default function Component() {
               <CheckCircle className="w-16 h-16 text-green-600 mb-4" />
               <h2 className="text-2xl font-bold text-green-600 mb-4">Congratulations!</h2>
               <p className="text-lg text-center mb-4">
-                You're qualified for the Free Affordable Care Act insurance!
+                You&#39;re qualified for the Free Affordable Care Act insurance!
               </p>
               <p className="text-lg font-semibold">
                 Please dial: <a href={`tel:${phoneNumber}`} className="text-blue-600">{phoneNumber}</a>
